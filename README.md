@@ -1,18 +1,27 @@
-# madshop_ui_polshchikov
+# Flutter Shop App
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### Экран загрузки
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/рисунок7.png" width="200" alt="Splash Screen">
 
-A few resources to get you started if this is your first Flutter project:
+### Регистрация
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="screenshots/рисунок6.png" width="200" alt="Sign Up Screen">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Вход в приложение
 
+<img src="screenshots/рисунок5.png" width="200" alt="Login Screen">
 
+### Главный экран с товарами
+
+<img src="screenshots/рисунок3.png" width="200" alt="Home Screen">
+
+### Корзина
+
+<img src="screenshots/рисунок1.png" width="200" alt="Cart Screen">
+
+### Избранное
+
+<img src="screenshots/рисунок2.png" width="200" alt="Favorites Screen">
